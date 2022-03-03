@@ -22,6 +22,7 @@ public class Parse {
         }while(k<=n);
         System.out.println(n+"!= "+f);
         System.out.println("第二个版本");
+        System.out.println("分支的操作");
     }
     public static List<String> parseSuffidExpressionList(List<String> s){
         Stack<String> stack1=new Stack<String>();
